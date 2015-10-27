@@ -1,0 +1,108 @@
+2015-10-27 17:42:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Wnl could not be found.
+Exception Attributes: array (
+  'class' => 'Wnl',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-27 18:04:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Wnl could not be found.
+Exception Attributes: array (
+  'class' => 'Wnl',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-27 18:06:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Wnl could not be found.
+Exception Attributes: array (
+  'class' => 'Wnl',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-27 18:08:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Wnl could not be found.
+Exception Attributes: array (
+  'class' => 'Wnl',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-27 18:08:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Wnl could not be found.
+Exception Attributes: array (
+  'class' => 'Wnl',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-10-27 18:10:34 Error: [Cake\Controller\Exception\MissingActionException] Action WnlController::index() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'WnlController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\WnlController))
+#2 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-10-27 18:11:52 Error: [Cake\View\Exception\MissingTemplateException] Template file "Wnl\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Wnl\\index.ctp',
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#1 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\WnlController))
+#4 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-10-27 18:13:13 Error: [Cake\View\Exception\MissingTemplateException] Template file "Wnl\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Wnl\\index.ctp',
+)
+Request URL: /WNL/wnl/
+Stack Trace:
+#0 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#1 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\wamp\www\WNL\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\WnlController))
+#4 C:\wamp\www\WNL\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
